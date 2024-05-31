@@ -2,18 +2,23 @@
 
 [![University Database Design and Implementation - A Case Study in SQL and Database Management Systems](https://img.youtube.com/vi/AuuZzHXcllc/0.jpg)](https://www.youtube.com/watch?v=AuuZzHXcllc)
 
-## Overall context:
+## Overview
 
-We will create a university enrollment database that will store information such as students’ first names, last names, dates of birth, contact information, ID number, date of enrollment, expected graduation year, and intended majors. We will also include data such as instructors’ and classes’ information. Moreover, as we progress through this class, we will be more specific with the data we want to store. Our purpose is to create a database that will organize information, hence, help universities keep and manipulate valuable data safely.
+This project aims to create a comprehensive university enrollment database capable of securely storing, retrieving, and managing essential information such as student and instructor details, enrollment data, and course information. The database will serve as a valuable tool for universities, enabling efficient organization and manipulation of vital data.
 
-## Scope:
+## Scope
 
-- **_Project Description_**: Our project will be used to store, retrieve, and alter the information held by universities.
-- **_Project Resources_**: Our project resources are our team of highly experienced software programmers.
-- **_Project Goals and Deliverables_**: To store student information securely and enable authorized users to access data promptly.
-- **_Project Roadmap_**: project proposal by 10/07, sprint 1 by 11/04, sprint 2 by 11/18, sprint 3 by 12/02, and finally group video presentation by 12/07.
-- **_Project Exclusions_**: Our project will only include relevant data for a higher institution; no other data will be included.
+- **Project Description**: The project will develop a database system tailored for universities to manage student and course data effectively.
+- **Project Resources**: Our team comprises highly skilled software programmers dedicated to the project's success.
+- **Project Goals and Deliverables**: Our goal is to create a secure database system that allows authorized users to access student information promptly and accurately.
+- **Project Roadmap**:
+  - Project proposal by 10/07
+  - Sprint 1 by 11/04
+  - Sprint 2 by 11/18
+  - Sprint 3 by 12/02
+  - Group video presentation by 12/07
+- **Project Exclusions**: The database will only include relevant data pertinent to higher education institutions; extraneous data will be excluded.
 
-## Objectives:
+## Objectives
 
-Our end goal is to create a database all universities can use. One can have multiple purposes for this database - access student or faculty information, and find qualified students with high GPAs eligible for specific grants and scholarships. This database will enable users to find a student's advisor, background information, concentration, enrolled courses, completed courses, failed classes, grade point average, grade level, major, and professors.
+The primary objective of this project is to develop a universally applicable database solution for universities. The database will facilitate tasks such as accessing student and faculty information, identifying eligible students for grants and scholarships based on academic performance, and providing detailed insights into student progress and course enrollment. Specific information to be stored includes student advisor details, course history, GPA, major, and more.
